@@ -1,0 +1,23 @@
+name: diagram_extractor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - pandas
+  - pillow
+  - opencv
+  - pytest
+  - ipykernel
+  - pip:
+    - pymupdf>=1.21.0
+    - pytesseract>=0.3.8
+    - ultralytics>=8.0.0
+    - chromadb>=0.4.0
+    - sentence-transformers>=2.2.0
+    - openpyxl
+    - matplotlib
+variables:
+  PYTHONPATH: ${CONDA_PREFIX}

@@ -1,0 +1,716 @@
+[
+  {
+    "id":"f386f6ad830ab9033ec9ef1c07d44496",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":41,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\f386f6ad830ab9033ec9ef1c07d44496.png",
+    "description":"Figure 1-22. Protocols and networks in the TCP\/IP model initially. Layer (OSI names)"
+  },
+  {
+    "id":"cd7edfa63ca7344588f5599a5e1a1221",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":51,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\cd7edfa63ca7344588f5599a5e1a1221.png",
+    "description":"Figure 1-29. Overview of the Internet."
+  },
+  {
+    "id":"330991cbd3f32eeede9d4d450fda2464",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":51,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\330991cbd3f32eeede9d4d450fda2464.png",
+    "description":"Figure 1-29. Overview of the Internet."
+  },
+  {
+    "id":"9ebf19938964c37fc3a6c34b05aaea3c",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":77,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\9ebf19938964c37fc3a6c34b05aaea3c.png",
+    "description":"Figure 2-7(a) shows a single fiber viewed from the side. At the center is the glass core through which the light propagates. In multimode fibers, the core is typically 50 microns in diameter, about the thickness of a human hair. In single-mode fibers, the core is 8 to 10 microns.\nFigure 2-7. (a) Side view of a single fiber. (b) End view of a sheath with three fibers."
+  },
+  {
+    "id":"f266df9efbc08045d83ae4a18e8b8983",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":79,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\f266df9efbc08045d83ae4a18e8b8983.png",
+    "description":"Figure 2-10. A passive star connection in a fiber optics network."
+  },
+  {
+    "id":"ac497bc6c962228b391779f18b0fa5d1",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":82,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\ac497bc6c962228b391779f18b0fa5d1.png",
+    "description":"Figure 2-12. (a) In the VLF, LF, and MF bands, radio waves follow the curvature of the earth. (b) In the HF band, they bounce off the ionosphere."
+  },
+  {
+    "id":"b7ce8778c047720d5c50126497860e63",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":107,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\b7ce8778c047720d5c50126497860e63.png",
+    "description":"Figure 2-32. Wavelength division multiplexing."
+  },
+  {
+    "id":"6925270c5174d0a13be392858d0ab13a",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":175,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\6925270c5174d0a13be392858d0ab13a.png",
+    "description":"Figure 3-24. Frame format for bit-oriented protocols."
+  },
+  {
+    "id":"78b4e116bb9a0d4d498f8a6299927583",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":192,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\78b4e116bb9a0d4d498f8a6299927583.png",
+    "description":"Figure 4-5. CSMA\/CD can be in one of three states: contention, transmission, or idle."
+  },
+  {
+    "id":"b3fc50457615a1626e2a7b959f30a524",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":197,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\b3fc50457615a1626e2a7b959f30a524.png",
+    "description":"Figure 4-9. The tree for eight stations."
+  },
+  {
+    "id":"f3172619fcaaaa2f86fce66d5b36fd15",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":202,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\f3172619fcaaaa2f86fce66d5b36fd15.png",
+    "description":"Figure 4-12. The MACA protocol. (a) A sending an RTS to B. (6b) B responding with a CTS to A."
+  },
+  {
+    "id":"78069e9d0473a0324ae5cb1a2b27a922",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":203,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\78069e9d0473a0324ae5cb1a2b27a922.png",
+    "description":"Figure 4-13. The most common kinds of Ethernet cabling."
+  },
+  {
+    "id":"670ea620a7bb4427119e1204bba71d56",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":204,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\670ea620a7bb4427119e1204bba71d56.png",
+    "description":"Figure 4-14. Three kinds of Ethernet cabling. (a) 10Base5. (b) 10Base2. (c) 10Base-T."
+  },
+  {
+    "id":"31986903e5c3bd8337597174579aacb9",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":205,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\31986903e5c3bd8337597174579aacb9.png",
+    "description":"Figure 4-15. Cable topologies. (a) Linear. (b) Spine. (c) Tree. (d) Segmented."
+  },
+  {
+    "id":"af7a1da41e28d5ca7e8b2070ea5adf8b",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":206,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\af7a1da41e28d5ca7e8b2070ea5adf8b.png",
+    "description":"Figure 4-16. (a) Binary encoding. (b) Manchester encoding. (c) Differential Manchester encoding."
+  },
+  {
+    "id":"8c251df00238afaaa289ae8756f9a65d",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":208,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\8c251df00238afaaa289ae8756f9a65d.png",
+    "description":"Figure 4-18. Collision detection can take as long as 2:. \u2014 Packet starts Packet almost \u2014 A Jf attime 0 B [A at Bat t-\u20ac \\\\ B] (a) (b)"
+  },
+  {
+    "id":"45b3e7740a73384f5bbd94280d687318",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":214,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\45b3e7740a73384f5bbd94280d687318.png",
+    "description":"Figure 4-21. The original fast Ethernet cabling."
+  },
+  {
+    "id":"41765d4657334c7b15d97bf6e5a40280",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":215,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\41765d4657334c7b15d97bf6e5a40280.png",
+    "description":"Figure 4-22. (a) A two-station Ethernet. (b) A multistation Ethernet."
+  },
+  {
+    "id":"e3b973b21ade3a8c4914afb624f7341b",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":220,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\e3b973b21ade3a8c4914afb624f7341b.png",
+    "description":"Figure 4-25. Part of the 802.11 protocol stack."
+  },
+  {
+    "id":"52e783539b91e253803f925c95566f83",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":236,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\52e783539b91e253803f925c95566f83.png",
+    "description":"Figure 4-37. The 802.15 version of the Bluetooth protocol architecture."
+  },
+  {
+    "id":"6d3c72f1016234ef665dc1b8262a70e4",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":238,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\6d3c72f1016234ef665dc1b8262a70e4.png",
+    "description":"Figure 4-38. A typical Bluetooth data frame."
+  },
+  {
+    "id":"69f4df16bf04b7900ffa729472f0c8f8",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":241,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\69f4df16bf04b7900ffa729472f0c8f8.png",
+    "description":"Figure 4-40. Operation of a LAN bridge from 802.171 to 802.3."
+  },
+  {
+    "id":"7da52b95856fe21a3beaa5a258e2b682",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":241,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\7da52b95856fe21a3beaa5a258e2b682.png",
+    "description":"Figure 4-41. The JEEE 802 frame formats. The drawing is not to scale. stint heck Frame | Dur- | Address | Address | Address Address Dat Check- 802.11 control) ation 1 2 3 4 als sum 802.16 0\/5 Et Header ype Length Canneciion ID CRC"
+  },
+  {
+    "id":"1234f4ad90d5079fbe5b7261b1f45e8f",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":246,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\1234f4ad90d5079fbe5b7261b1f45e8f.png",
+    "description":"Figure 4-47. (a) A hub. (b) A bridge. (c) A switch."
+  },
+  {
+    "id":"320576ba95275519ec2a87b76c884fbd",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":248,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\320576ba95275519ec2a87b76c884fbd.png",
+    "description":"Figure 4-48. A building with centralized wiring using hubs and a switch."
+  },
+  {
+    "id":"3ed468750e9cc7353ce5f2e8a7182383",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":252,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\3ed468750e9cc7353ce5f2e8a7182383.png",
+    "description":"Figure 4-50. Transition from legacy Ethernet to VLAN-aware Ethernet. The shaded symbols are VLAN aware. The empty ones are not."
+  },
+  {
+    "id":"b5d9e164df725481fa3027cb561e2974",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":259,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\b5d9e164df725481fa3027cb561e2974.png",
+    "description":"Figure 5-1. The environment of the network layer protocols. Router Carrier's equipment"
+  },
+  {
+    "id":"274605fd2e0812307f11b0b12d13e4a0",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":262,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\274605fd2e0812307f11b0b12d13e4a0.png",
+    "description":"Figure 5-3. Routing within a virtual-circuit subnet."
+  },
+  {
+    "id":"526f6360cddf1a9896d17003601fa98c",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":271,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\526f6360cddf1a9896d17003601fa98c.png",
+    "description":"Figure 5-9. (a) A subnet. (b) Input from A, 1, H, K, and the new routing table for J."
+  },
+  {
+    "id":"04f65d056b4f1ec48743ed20dc666380",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":273,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\04f65d056b4f1ec48743ed20dc666380.png",
+    "description":"Figure 5-11. (a) Nine routers and a LAN. (b) A graph model of (a)."
+  },
+  {
+    "id":"7a7a3a7897816ef9100af432ba2db6bc",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":274,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\7a7a3a7897816ef9100af432ba2db6bc.png",
+    "description":"Figure 5-12. A subnet in which the East and West parts are connected by two lines."
+  },
+  {
+    "id":"7662fd5dae3e29ce8f65e435f110cbdf",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":275,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\7662fd5dae3e29ce8f65e435f110cbdf.png",
+    "description":"Figure 5-13. (a) A subnet. (b) The link state packets for this subnet."
+  },
+  {
+    "id":"8a1c0d58d1eecda6d4f9409d071f2ec6",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":283,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\8a1c0d58d1eecda6d4f9409d071f2ec6.png",
+    "description":"Figure 5-19. Packet routing for mobile hosts."
+  },
+  {
+    "id":"6f976cbb620bef86b750045a83b61834",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":287,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\6f976cbb620bef86b750045a83b61834.png",
+    "description":"Figure 5-23. (a) D's routing table before G goes down. (b) The graph after G has gone down."
+  },
+  {
+    "id":"7a74d31d154fcc3bbcafdc6455b207ac",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":291,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\7a74d31d154fcc3bbcafdc6455b207ac.png",
+    "description":"Figure 5-25. When too much traffic is offered, congestion sets in and performance degrades sharply."
+  },
+  {
+    "id":"3a865a8e40a6aec14be27ab64d7c07c3",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":295,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\3a865a8e40a6aec14be27ab64d7c07c3.png",
+    "description":"Figure 5-27. (a) A congested subnet. (b) A redrawn subnet that eliminates the congestion. A virtual circuit from A to B is also shown."
+  },
+  {
+    "id":"dcf4fd339a9ce1357a66c0562e1b2c06",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":304,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\dcf4fd339a9ce1357a66c0562e1b2c06.png",
+    "description":"Figure 5-32. (a) A leaky bucket with water. (b) A leaky bucket with packets."
+  },
+  {
+    "id":"4952828788e27d712d9c282d8fbadd10",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":306,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\4952828788e27d712d9c282d8fbadd10.png",
+    "description":"Figure 5-34. The token bucket algorithm. (a) Before. (b) After."
+  },
+  {
+    "id":"e9f85788c61adf3c0ac81449e80775a1",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":310,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\e9f85788c61adf3c0ac81449e80775a1.png",
+    "description":"Figure 5-36. (a) A router with five packets queued for line O. (b) Finishing times for the five packets. Packet Finishing time Cc 8 16"
+  },
+  {
+    "id":"864e34beb7c18212fb31e61249f654a7",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":312,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\864e34beb7c18212fb31e61249f654a7.png",
+    "description":"Figure 5-38. (a) Host 3 requests a channel to host 1. (b) Host 3 then requests a second channel, to host 2. (c) Host 5 requests a channel to host 7."
+  },
+  {
+    "id":"182281b489f9f23ff91b2da5c5f1f2ce",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":314,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\182281b489f9f23ff91b2da5c5f1f2ce.png",
+    "description":"Figure 5-39. Expedited packets experience a traffic-free network."
+  },
+  {
+    "id":"74b90e60b25f1259605ae5b7a807536f",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":315,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\74b90e60b25f1259605ae5b7a807536f.png",
+    "description":"Figure 9-4U0. A possibdie impiementation of tne data flow for assured forwarding."
+  },
+  {
+    "id":"1a62799fb27738a692ab83fb954cb4b9",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":318,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\1a62799fb27738a692ab83fb954cb4b9.png",
+    "description":"Figure 5-42. A collection of interconnected networks."
+  },
+  {
+    "id":"99d73a86ee4b57a6fb13e173061f978c",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":320,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\99d73a86ee4b57a6fb13e173061f978c.png",
+    "description":"Figure 5-44. (a) Two Ethernets connected by a switch. (b) Two Ethernets connected by routers."
+  },
+  {
+    "id":"40fe37cce12b60ab7b000eee675ddb80",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":321,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\40fe37cce12b60ab7b000eee675ddb80.png",
+    "description":"Figure 5-45. Internetworking using concatenated virtual circuits."
+  },
+  {
+    "id":"6d860fa3315b238cf5676c9707b3ace2",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":324,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\6d860fa3315b238cf5676c9707b3ace2.png",
+    "description":"Figure 5-49. (a) An internetwork. (b) A graph of the internetwork."
+  },
+  {
+    "id":"3589b6c9fe4dc24dfa6e6285ecbc5b51",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":340,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\3589b6c9fe4dc24dfa6e6285ecbc5b51.png",
+    "description":"Figure 5-60. Placement and operation of a NAT box."
+  },
+  {
+    "id":"928beb7419f82492dfef69a7bf7aa631",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":356,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\928beb7419f82492dfef69a7bf7aa631.png",
+    "description":"Figure 5-68. The IPv6 fixed header (required)."
+  },
+  {
+    "id":"72bff589f8727370f59cfa01e42c7f7c",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":358,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\72bff589f8727370f59cfa01e42c7f7c.png",
+    "description":"Figure 5-69. IPv6 extension headers."
+  },
+  {
+    "id":"3ea9ba715f4d2a59d90fa0e25e76b39f",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":367,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\3ea9ba715f4d2a59d90fa0e25e76b39f.png",
+    "description":"Figure 6-1. The network, transport, and application layers."
+  },
+  {
+    "id":"ac8f6a1a978c7ced09b8a2c156d9331c",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":369,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\ac8f6a1a978c7ced09b8a2c156d9331c.png",
+    "description":"Figure 6-2. The primitives for a simple transport service."
+  },
+  {
+    "id":"853ffde5a30ef8fe0f2344aa163809db",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":376,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\853ffde5a30ef8fe0f2344aa163809db.png",
+    "description":"Figure 6-7. (a) Environment of the data link layer. (b) Environment of the transport layer."
+  },
+  {
+    "id":"db51ccacf3a84b804cab890e332009a1",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":377,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\db51ccacf3a84b804cab890e332009a1.png",
+    "description":"Figure 6-8. TSAPs, NSAPs, and transport con"
+  },
+  {
+    "id":"cc9b3e77a00463b7cd89ab461ee6745b",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":378,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\cc9b3e77a00463b7cd89ab461ee6745b.png",
+    "description":"Figure 6-9. How a user process in host 1 establishes a connection with a time-of-day server in host 2."
+  },
+  {
+    "id":"b7c695338c6d01766821c3ccfdda6d19",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":381,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\b7c695338c6d01766821c3ccfdda6d19.png",
+    "description":"Figure 6-10. (a) TPDUs may not enter the forbidden region. (b) The resynchronization problem."
+  },
+  {
+    "id":"c1167e6b4553581079500af3859e3e68",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":392,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\c1167e6b4553581079500af3859e3e68.png",
+    "description":"Figure 6-18. Different combinations of client and server strategy."
+  },
+  {
+    "id":"e9222ba58b34233544e011cd96bde469",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":403,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\e9222ba58b34233544e011cd96bde469.png",
+    "description":"Figure 6-24. Steps in making a remote procedure call. The stubs are shaded."
+  },
+  {
+    "id":"c9a0b7543d46f8cdb9efb83c4e7609fa",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":408,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\c9a0b7543d46f8cdb9efb83c4e7609fa.png",
+    "description":"Figure 6-27. Some assigned ports."
+  },
+  {
+    "id":"6336207f49b410a46e77766f4b693851",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":410,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\6336207f49b410a46e77766f4b693851.png",
+    "description":"Figure 6-29 shows the layout of a TCP segment. Every segment begins with a fixed-format 20-byte header. The fixed header may be followed by header options. After the options, if up to 65,535 - 20 - 20 = 65,495 data bytes may follow, where the first 20 refer to the IP\nFigure 6-29. The TCP header."
+  },
+  {
+    "id":"1b4a07f45370924cf37a3ed81267bd61",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":413,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\1b4a07f45370924cf37a3ed81267bd61.png",
+    "description":"Figure 6-31. (a) TCP connection establishment in the normal case. (b) Call collision."
+  },
+  {
+    "id":"d561e58b7cef91b581f35a932c20989c",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":416,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\d561e58b7cef91b581f35a932c20989c.png",
+    "description":"Figure 6-34. Window management in TCP."
+  },
+  {
+    "id":"9453b924a1c08b90aab8abeda0cd2d3c",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":419,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\9453b924a1c08b90aab8abeda0cd2d3c.png",
+    "description":"Figure 6-36. (a) A fast network feeding a low-capacity receiver. (b) A slow network feeding a high-capacity receiver."
+  },
+  {
+    "id":"d311fdf6df07a1f928cacee33b33816a",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":424,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\d311fdf6df07a1f928cacee33b33816a.png",
+    "description":"Figure 6-39. Splitting a TCP connection into two connections."
+  },
+  {
+    "id":"59bc7403933c085fd29c89af5f79b9e0",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":428,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\59bc7403933c085fd29c89af5f79b9e0.png",
+    "description":"Figure 6-41. The state of transmitting one megabit from San Diego to Boston. (a) Att = O. (b) After 500 usec. (c) After 20 msec. (d) After 40"
+  },
+  {
+    "id":"59135415b3a005ea7dfa68921d614013",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":434,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\59135415b3a005ea7dfa68921d614013.png",
+    "description":"Figure 6-44. The fast path from sender to receiver is shown witha heavy line. The processing steps on this path are shaded."
+  },
+  {
+    "id":"065553cdb6a1a0f17731443e28fa24fa",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":435,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\065553cdb6a1a0f17731443e28fa24fa.png",
+    "description":"Figure 6-45. (a) TCP header. (b) IP header. In both cases, the shaded fields are taken from the prototype without change."
+  },
+  {
+    "id":"807a666b03f896d44e41a61e44363ce0",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":447,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\807a666b03f896d44e41a61e44363ce0.png",
+    "description":"Figure 7-2. . The principal DNS resource record types for IPv4."
+  },
+  {
+    "id":"324923de788c597df80586155887cb9d",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":449,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\324923de788c597df80586155887cb9d.png",
+    "description":"Figure 7-4. Part of the DNS name space showing the division into zones."
+  },
+  {
+    "id":"13fe0d3ded85c398fd8d45c66c5c204c",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":451,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\13fe0d3ded85c398fd8d45c66c5c204c.png",
+    "description":"Figure 7-6. Some smileys. They will not be on the final exam :-)"
+  },
+  {
+    "id":"d2c9cad6fc134d82be7e060f1b63c2e5",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":455,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\d2c9cad6fc134d82be7e060f1b63c2e5.png",
+    "description":"Figure 7-8. An example display of the contents of a mailbox."
+  },
+  {
+    "id":"0712edb385a26d5a4b685e46c61c0f65",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":476,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\0712edb385a26d5a4b685e46c61c0f65.png",
+    "description":"Figure 7-21. A multithreaded Web server with a front end and processing modules."
+  },
+  {
+    "id":"e7b03378fc7b8a960fb7fc6e6a64945a",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":481,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\e7b03378fc7b8a960fb7fc6e6a64945a.png",
+    "description":"Figure 7-25. Some examples of cookies."
+  },
+  {
+    "id":"ec8a8012107150b95d6aa157c58f0cc9",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":496,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\ec8a8012107150b95d6aa157c58f0cc9.png",
+    "description":"Figure 7-33. Steps in processing the information from an"
+  },
+  {
+    "id":"368b31a926a1f25fcfc48df013605c17",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":500,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\368b31a926a1f25fcfc48df013605c17.png",
+    "description":"Figure 7-37. (a) Server-side scripting with PHP. (b) Client-side scripting with JavaScript."
+  },
+  {
+    "id":"5fb960f1644b9ef7c427a53e2a87b1cc",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":502,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\5fb960f1644b9ef7c427a53e2a87b1cc.png",
+    "description":"Figure 7-40. The various ways to generate and display content."
+  },
+  {
+    "id":"b68d3b29400271b30951b6481e7193ef",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":503,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\b68d3b29400271b30951b6481e7193ef.png",
+    "description":"Figure 7-41. The built-in HTTP request methods."
+  },
+  {
+    "id":"b417a434e2daf75995451e165f894571",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":513,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\b417a434e2daf75995451e165f894571.png",
+    "description":"Figure 7-49. The WAP architecture."
+  },
+  {
+    "id":"f84cee729ebb197430ddf4ff6ba8f93c",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":517,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\f84cee729ebb197430ddf4ff6ba8f93c.png",
+    "description":"Figure 7-52. Lewis Carroll meets a 16 x 6 screen."
+  },
+  {
+    "id":"105012cd62a2dd845f165a903d143bf0",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":518,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\105012cd62a2dd845f165a903d143bf0.png",
+    "description":"Figure 7-54. A comparison of first-generation WAP and i-mode."
+  },
+  {
+    "id":"c74824375cdcadb0da05cb6ae31c1659",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":520,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\c74824375cdcadb0da05cb6ae31c1659.png",
+    "description":"Figure 7-56. The XHTML Basic modules and tags."
+  },
+  {
+    "id":"9b5145844ca0b23d407d2d16da5572ff",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":522,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\9b5145844ca0b23d407d2d16da5572ff.png",
+    "description":"Figure 7-57. (a) A sine wave. (b) Sampling the sine wave. (c) Quantizing the samples to 4 bits."
+  },
+  {
+    "id":"5306b9cd9c4cb194348fe5d35ca4e248",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":524,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\5306b9cd9c4cb194348fe5d35ca4e248.png",
+    "description":"Figure 7-58. (a) The threshold of audibility as a function of frequency. (b) The masking effect."
+  },
+  {
+    "id":"24b19a16c91d252326689db2340add8b",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":531,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\24b19a16c91d252326689db2340add8b.png",
+    "description":"Figure 7-65. The H.323 protocol stack."
+  },
+  {
+    "id":"dd175c94c29ee8adcbc13f5a7c45d546",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":540,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\dd175c94c29ee8adcbc13f5a7c45d546.png",
+    "description":"Figure 7-73. (a) One block of the Y matrix. (b) The DCT coefficients."
+  },
+  {
+    "id":"9160091909463ddeed706086594e3674",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":542,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\9160091909463ddeed706086594e3674.png",
+    "description":"Figure 7-76. Synchronization of the audio and video streams in MPEG- 7."
+  },
+  {
+    "id":"a30e78bb894698d7d6ce18d8590f0a73",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":543,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\a30e78bb894698d7d6ce18d8590f0a73.png",
+    "description":"Figure 7-77. Three consecutive frames."
+  },
+  {
+    "id":"e67f2dff8a065df2e80fb560a785037d",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":547,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\e67f2dff8a065df2e80fb560a785037d.png",
+    "description":"Figure 7-80. The hardware architecture of a typical video server."
+  },
+  {
+    "id":"776d3fe6ed0edd24e4021b4fad5b37d5",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":560,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\776d3fe6ed0edd24e4021b4fad5b37d5.png",
+    "description":"Figure 8-2. The encryption model (for a symmetric-key cipher)."
+  },
+  {
+    "id":"f12d45b0b9a39265620d840ba3d6553c",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":569,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\f12d45b0b9a39265620d840ba3d6553c.png",
+    "description":"Figure 8-6. Basic elements of product ciphers. (a) P-box. (b) S-box. (c) Product."
+  },
+  {
+    "id":"9a3726578a51ca4c329fe094db07703d",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":570,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\9a3726578a51ca4c329fe094db07703d.png",
+    "description":"Figure 8-7. The data encryption standard. (a) General outline. (b) Detail of one iteration. The circled + means exclusive OR."
+  },
+  {
+    "id":"0d705d3ea963ac9bf5c025fc6bd7a305",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":572,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\0d705d3ea963ac9bf5c025fc6bd7a305.png",
+    "description":"Figure 8-8. (a) Triple encryption using DES. (b) Decryption."
+  },
+  {
+    "id":"6f27760f587727e93393bb249251e6d4",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":579,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\6f27760f587727e93393bb249251e6d4.png",
+    "description":"Figure 8-15. Encryption using counter mode."
+  },
+  {
+    "id":"1431cfba91930bc068467c94786fa8ed",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":580,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\1431cfba91930bc068467c94786fa8ed.png",
+    "description":"Figure 8-16. Some common symmetric-key cryptographic algorithms."
+  },
+  {
+    "id":"c7384c154757dac176cd2a037d1152d0",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":588,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\c7384c154757dac176cd2a037d1152d0.png",
+    "description":"Figure 8-21. Use of SHA-1 and RSA for signing nonsecret messages. Alice's"
+  },
+  {
+    "id":"ecbe277225ec06b473fe522d4b924e7d",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":600,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\ecbe277225ec06b473fe522d4b924e7d.png",
+    "description":"Figure 8-29. A firewall consisting of two packet filters and an application gateway."
+  },
+  {
+    "id":"a55ea22410d092a812b73cbb64e0f8f2",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":602,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\a55ea22410d092a812b73cbb64e0f8f2.png",
+    "description":"Figure 8-30. (a) A leased-line private network. (b) A virtual private network."
+  },
+  {
+    "id":"e482ff7ce6aa6ea5d4483aa16a6f69fc",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":604,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\e482ff7ce6aa6ea5d4483aa16a6f69fc.png",
+    "description":"Figure 8-31. Packet encryption using WEP."
+  },
+  {
+    "id":"f6d2a07a71cfed6349848fb8b8c42202",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":612,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\f6d2a07a71cfed6349848fb8b8c42202.png",
+    "description":"Figure 8-38. The bucket brigade or man-in-the-middle attack."
+  },
+  {
+    "id":"d20f3a85baceaf4729893dca511cb107",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":617,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\d20f3a85baceaf4729893dca511cb107.png",
+    "description":"Figure 8-43. Mutual authenticatic"
+  },
+  {
+    "id":"07f18077d7f3932e055d334a1091b4ae",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":623,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\07f18077d7f3932e055d334a1091b4ae.png",
+    "description":"Figure 8-46. (a) Normal situation. (b) An attack based on breaking into DNS and modifying Bob's record."
+  },
+  {
+    "id":"092dc8338e2bd070fb18092d44ab85ea",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":629,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\092dc8338e2bd070fb18092d44ab85ea.png",
+    "description":"Figure 8-51. A simplified version of the SSL connection establishment subprotocol."
+  },
+  {
+    "id":"162f332895531fb8935debb686b10327",
+    "source_pdf":"Prentice Hall - Computer Networks Tanenbaum 4ed.pdf",
+    "page_number":630,
+    "diagram_path":"diagram_extraction_output\\diagrams_store\\162f332895531fb8935debb686b10327.png",
+    "description":"Figure 8-52. Data transmission using SSL."
+  }
+]
