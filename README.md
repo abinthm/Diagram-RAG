@@ -2,8 +2,6 @@
 
 A comprehensive solution for extracting diagrams from PDF documents, capturing their descriptions, and enabling intelligent semantic search using vector embeddings.
 
-[![Python 3.9](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🚀 Features
 
@@ -70,7 +68,7 @@ from main import process_pdf_diagrams, search_diagrams
 results_df = process_pdf_diagrams("path/to/document.pdf")
 
 # Search for diagrams
-diagram_results = search_diagrams("neural network architecture")
+diagram_results = search_diagrams("Bluetooth data frame")
 
 # Integrate with a RAG chatbot
 from main import integrate_with_rag_chatbot
