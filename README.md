@@ -93,20 +93,3 @@ After processing a PDF, the system generates:
 3. **Text Extraction**: Extract figure descriptions using Tesseract OCR
 4. **Embedding Generation**: Create vector embeddings using sentence-transformers
 5. **Search**: Query diagrams by semantic similarity or keywords
-
-## 🔮 Future Improvements
-
-- [ ] Add diagram classification capabilities
-- [ ] Improve OCR accuracy for technical diagrams
-- [ ] Add support for batch processing of multiple PDFs
-- [ ] Develop a web interface for visual exploration of extracted diagrams
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgements
-
-- [Ultralytics YOLO](https://github.com/ultralytics/yolov5) for object detection
-- [PyMuPDF](https://github.com/pymupdf/PyMuPDF) for PDF processing
-- [ChromaDB](https://github.com/chroma-core/chroma) for vector database capabilities
